@@ -1,0 +1,35 @@
+/* add your CSS here */
+.menu{
+    margin: 20px 20px 20px 20px;
+	border: 3px solid #ccc;
+	padding: 5px 20px 20px 20px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.paragraph{
+	margin-top: 15px;
+	border: 3px solid #ccc;
+	padding: 5px 20px 5px 20px;
+}
+.heading{
+    font-weight: 800;
+    font-size: 30px;
+}
+.list{
+	padding: 0px;
+	list-style-type: none;
+}
+
+.description{
+	font-style: italic;
+}
+
+#label{
+	font-style: normal;
+	font-weight: 800;
+}
+
+img{
+	width: 100%;
+	height: 300px;
+}
